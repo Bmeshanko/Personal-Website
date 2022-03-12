@@ -1,16 +1,19 @@
 .App {
   text-align: center;
   background-color: #1D1D1D;
-  height: 622px;
+  height: 621px;
 }
 
 .App-header {
-  font-family: Consolas;
   background-color: #1D1D1D;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.App-title {
+  font-family: Consolas;
   font-size: 32px;
   color: white;
 }
